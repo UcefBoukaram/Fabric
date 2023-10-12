@@ -1,4 +1,4 @@
-Login email,Identifier,First name,Last name,Department,Location,Date Of Birth
+Login,Identifier,FirstName,LastName,Department,Location,DateOfBirth
 rachel@example.com,1,Rachel,Booker,Sales,Manchester,1991-08-02
 laura@example.com,2,Laura,Grey,Depot,London,1985-10-03
 craig@example.com,3,Craig,Johnson,Depot,London,1995-11-05
