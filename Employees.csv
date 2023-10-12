@@ -1,6 +1,6 @@
 Login email,Identifier,First name,Last name,Department,Location
-rachel@example.com,Rachel,Booker,Sales,Manchester
-laura@example.com,Laura,Grey,Depot,London
-craig@example.com,Craig,Johnson,Depot,London
-mary@example.com,Mary,Jenkins,Engineering,Manchester
-jamie@example.com,Jamie,Smith,Engineering,Manchester
+rachel@example.com,1,Rachel,Booker,Sales,Manchester
+laura@example.com,2,Laura,Grey,Depot,London
+craig@example.com,3,Craig,Johnson,Depot,London
+mary@example.com,4,Mary,Jenkins,Engineering,Manchester
+jamie@example.com,5,Jamie,Smith,Engineering,Manchester
